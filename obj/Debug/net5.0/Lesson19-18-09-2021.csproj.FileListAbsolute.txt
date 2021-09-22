@@ -1,0 +1,16 @@
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.exe
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.deps.json
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.runtimeconfig.json
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.runtimeconfig.dev.json
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.dll
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\ref\Lesson19-18-09-2021.dll
+D:\C#\Lesson19-18-09-2021\bin\Debug\net5.0\Lesson19-18-09-2021.pdb
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.csproj.AssemblyReference.cache
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.AssemblyInfoInputs.cache
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.AssemblyInfo.cs
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.csproj.CoreCompileInputs.cache
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.dll
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\ref\Lesson19-18-09-2021.dll
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.pdb
+D:\C#\Lesson19-18-09-2021\obj\Debug\net5.0\Lesson19-18-09-2021.genruntimeconfig.cache
